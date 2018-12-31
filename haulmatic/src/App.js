@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { GET_STUDENTS } from './reduces/StudentReducer';
 import logo from './logo.svg';
 import './App.css';
 
